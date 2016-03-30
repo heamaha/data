@@ -182,3 +182,4 @@ $ grep -i chips chipotle.tsv | grep -i -v tomatillo | grep -i -v guacamole | gre
     312    1762    8427
 ```
 
+There are 312 orders for chips or a side of chips with no guacomole or salsa.
